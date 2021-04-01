@@ -1,10 +1,1 @@
-<<<<<<< HEAD
 {"AsOfDate":"Rates as of: 4/1/2021","Product":"30 Year Fixed Rate","Rate":3.250,"APR":3.335}
-=======
-{
-  "AsOfDate": "Rates as of: 3/30/2021",
-  "Product": "30 Year Fixed Rate",
-  "Rate": 3.25,
-  "APR": 3.335
-}
->>>>>>> f7518b88491cb479f095522b18523de70dae8714
